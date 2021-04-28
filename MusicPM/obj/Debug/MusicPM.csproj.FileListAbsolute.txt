@@ -1,0 +1,17 @@
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\bin\Debug\MusicPM.exe.config
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\bin\Debug\MusicPM.exe
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\bin\Debug\MusicPM.pdb
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\bin\Debug\EntityFramework.dll
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\bin\Debug\EntityFramework.xml
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\obj\Debug\MusicPM.csprojAssemblyReference.cache
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\obj\Debug\MusicPM.Login.resources
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\obj\Debug\MusicPM.Properties.Resources.resources
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\obj\Debug\MusicPM.csproj.GenerateResource.cache
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\obj\Debug\MusicPM.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\obj\Debug\MusicPM.csproj.CopyComplete
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\obj\Debug\MusicPM.exe
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\obj\Debug\MusicPM.pdb
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\obj\Debug\MusicPM.MusicPM.resources
+C:\Users\Microsoft\source\repos\rizkyintan\Music-PM\MusicPM\obj\Debug\MusicPM.Register.resources
